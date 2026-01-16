@@ -5,6 +5,8 @@
 <p align="center">
   📍 Buenos Aires, Argentina  
   <br />
+  🌐 <a href="https://www.marianordz.com.ar">marianordz.com.ar</a>  
+  <br />
   🔗 <a href="https://linkedin.com/in/marianordz">LinkedIn</a> - 📧 <a href="mailto:rdzc.mariano@gmail.com">rdzc.mariano@gmail.com</a>
 </p>
 
@@ -55,6 +57,7 @@
 ## 📫 Get in Touch
 
 <p align="center">
+  🌐 <a href="https://www.marianordz.com.ar">www.marianordz.com.ar</a> <br />
   📧 <a href="mailto:rdzc.mariano@gmail.com">rdzc.mariano@gmail.com</a> <br />
   💼 <a href="https://linkedin.com/in/marianordz">linkedin.com/in/marianordz</a>
 </p>
