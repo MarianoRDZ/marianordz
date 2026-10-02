@@ -7,7 +7,7 @@
   <br />
   🌐 <a href="https://www.marianordz.com.ar">marianordz.com.ar</a>  
   <br />
-  🔗 <a href="https://linkedin.com/in/marianordz">LinkedIn</a> - 📧 <a href="mailto:rdzc.mariano@gmail.com">rdzc.mariano@gmail.com</a>
+  🔗 <a href="https://linkedin.com/in/marianordz">LinkedIn</a> - 📧 <a href="mailto:rdzc.mariano@proton.me">rdzc.mariano@proton.me</a>
 </p>
 
 <p align="center">
@@ -58,6 +58,6 @@
 
 <p align="center">
   🌐 <a href="https://www.marianordz.com.ar">www.marianordz.com.ar</a> <br />
-  📧 <a href="mailto:rdzc.mariano@gmail.com">rdzc.mariano@gmail.com</a> <br />
+  📧 <a href="mailto:rdzc.mariano@proton.me">rdzc.mariano@proton.me</a> <br />
   💼 <a href="https://linkedin.com/in/marianordz">linkedin.com/in/marianordz</a>
 </p>
